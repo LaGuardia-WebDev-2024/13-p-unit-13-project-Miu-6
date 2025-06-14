@@ -2,6 +2,7 @@
   background: rgb(244, 98, 181);
   border: 5px solid red;
   font-size: 24px;
+  font-style:italic;
   font-family: cursive;
   font: serif;
   height: 160px;
@@ -13,13 +14,19 @@
   background: rgb(196, 159, 255);
   border: 5px solid black;
   font-size: 24px;
-  font:sans-serif;
+  font-family:sans-serif;
+  font: italic 20px fantasy;
   height: 160px;
   margin-top: 10px;
   margin-bottom: 20px;
+
 }
+
+#pic1 {background: rgb(250, 70, 80)}
+#pic3 {background: rgb(90, 70, 80)}
 
 hr {
   height: 5px;
   background-color: purple;
 }
+.head {background: rgb(25, 300, 20)}
